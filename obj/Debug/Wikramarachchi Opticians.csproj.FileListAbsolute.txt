@@ -1,0 +1,53 @@
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.exe.config
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.exe
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\Wikramarachchi Opticians.pdb
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csprojAssemblyReference.cache
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Home.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Properties.Resources.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.GenerateResource.cache
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.CoreCompileInputs.cache
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.exe
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.pdb
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Login.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Manager.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Eye_Technician.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Add_New_Stock.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Delete_Frame.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Delete_Lens.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Workshop.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_View.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Delete.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Edit.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Receptionist.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Report.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Patient_View.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Checkout.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Edit_Stock.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Receipt.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\stdole.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi Opticians.csproj.CopyComplete
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Customer_Report.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Sales_Report.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Lens_Report.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Frame_Report.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Employee_Registration.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Patient_Registration.resources
+C:\Users\Apsara Madhuwanthi\source\repos\Wikramarachchi Opticians\Wikramarachchi Opticians\obj\Debug\Wikramarachchi_Opticians.Orders.resources
